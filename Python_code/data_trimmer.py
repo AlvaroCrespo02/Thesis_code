@@ -48,7 +48,7 @@ def process_audio_files(input_directory, output_directory, fade_duration=10, sam
             print(f"Skipped file (not 144000 samples long): {filename}")
 
 # Example usage:
-input_directory = r'C:\Users\alvar\Documents\Thesis\Data\GoodOne\Kobol_VCO_dynamic\Dry'
-output_directory = r'C:\Users\alvar\Documents\Thesis\Data\GoodOne\Kobol_VCO_dynamic\Dry_trimmed'
+input_directory = 'input/path'
+output_directory = 'output/path'
 process_audio_files(input_directory, output_directory)
 
