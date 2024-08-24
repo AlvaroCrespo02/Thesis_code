@@ -1,0 +1,96 @@
+aiohttp==3.9.5
+aiosignal==1.3.1
+antlr4-python3-runtime==4.9.3
+async-timeout==4.0.3
+attrs==23.2.0
+audioread==3.0.1
+auraloss==0.4.0
+bitsandbytes==0.43.1
+certifi==2024.6.2
+cffi==1.16.0
+charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
+contourpy==1.2.1
+cycler==0.12.1
+decorator==5.1.1
+docker-pycreds==0.4.0
+docstring_parser==0.16
+filelock==3.15.1
+fonttools==4.53.0
+frozenlist==1.4.1
+fsspec==2024.6.0
+future==1.0.0
+gitdb==4.0.11
+GitPython==3.1.43
+hydra-core==1.3.2
+idna==3.7
+importlib_resources==6.4.0
+Jinja2==3.1.4
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1714665484399/work
+jsonargparse==4.29.0
+jsonschema==4.22.0
+jsonschema-specifications==2023.12.1
+kiwisolver==1.4.5
+lazy_loader==0.4
+librosa==0.10.2.post1
+lightning-utilities==0.11.2
+llvmlite==0.43.0
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+matplotlib==3.9.0
+mdurl==0.1.2
+MIDIUtil==1.2.1
+mido @ file:///home/conda/feedstock_root/build_artifacts/mido_1628891227174/work
+mpmath==1.3.0
+msgpack==1.0.8
+multidict==6.0.5
+networkx==3.3
+neutone_sdk==1.4.2
+numba==0.60.0
+numpy @ file:///D:/bld/numpy_1707225570061/work/dist/numpy-1.26.4-cp310-cp310-win_amd64.whl#sha256=6761da75b1528684e6bf4dabdbdded9d1eb4d0e9b299482c7ce152cfb3155106
+omegaconf==2.3.0
+packaging==24.1
+pandas @ file:///D:/bld/pandas_1715897730709/work
+pedalboard==0.9.6
+pillow==10.3.0
+pip-chill==1.0.3
+platformdirs==4.2.2
+pooch==1.8.2
+protobuf==5.27.1
+psutil==5.9.8
+pycparser==2.22
+pydub==0.25.1
+Pygments==2.18.0
+pyloudnorm==0.1.1
+pyparsing==3.1.2
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+pytorch-lightning==2.3.0
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+PyYAML==6.0.1
+referencing==0.35.1
+requests==2.32.3
+rich==13.7.1
+rpds-py==0.18.1
+scikit-learn @ file:///D:/bld/scikit-learn_1716489877464/work/dist/scikit_learn-1.5.0-cp310-cp310-win_amd64.whl#sha256=657f2f0585d7753e3b9c95c020958894677c77e55dad38715a6322bdc1247984
+scipy @ file:///C:/bld/scipy-split_1716470344080/work/dist/scipy-1.13.1-cp310-cp310-win_amd64.whl#sha256=79dece58ad4a36a8781c303851d2a8396190d47b0490a33d6109d93bd1ca525f
+sentry-sdk==2.5.1
+setproctitle==1.3.3
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+smmap==5.0.1
+soundfile==0.12.1
+soxr==0.3.7
+sympy==1.12.1
+tensorboardX==2.6.2.2
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1714400101435/work
+torch==2.1.2
+torchaudio==2.1.2
+torchmetrics==1.4.0.post0
+torchvision==0.16.2
+tqdm==4.66.4
+typeshed_client==2.5.1
+typing_extensions==4.12.2
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
+urllib3==2.2.1
+wandb==0.17.1
+yarl==1.9.4
