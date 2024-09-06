@@ -10,12 +10,12 @@ The models I used can be found here:
 
   -mod_extraction:
   
-    -Original code: https://github.com/christhetree/mod_extraction
+  Original code: https://github.com/christhetree/mod_extraction
     
-    -My fork: https://github.com/AlvaroCrespo02/mod_extraction/tree/Tests_updated
+  My fork: https://github.com/AlvaroCrespo02/mod_extraction/tree/Tests_updated
     
   -pedalnet:
   
-    -Original code: https://github.com/teddykoker/pedalnet
+  Original code: https://github.com/teddykoker/pedalnet
     
-    -My fork: https://github.com/AlvaroCrespo02/pedalnet
+  My fork: https://github.com/AlvaroCrespo02/pedalnet
