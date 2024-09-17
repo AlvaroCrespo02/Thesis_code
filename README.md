@@ -2,9 +2,9 @@ This are a few files that I used in my thesis to prepare and anylize the data I 
 
 ATM the dataset can be found here:
 
-Static dataset: https://drive.google.com/drive/folders/1S3D8AfQJ5vLV1Zl3KCdJ3OJ0g8f9uwpk?usp=sharing
+Static dataset: https://drive.google.com/drive/folders/1EKZ2LMAII9UR5aEXQk_WEv7Boi2ipQ64?usp=sharing
 
-Dynamic dataset: https://drive.google.com/drive/folders/1WguXGsuBEAVHnbMzfhXhmRUWPuGP9n-i?usp=sharing
+Dynamic dataset: https://drive.google.com/drive/folders/1d6f5vZuwfAvKZ0PByF3BoF4nRM7jVfpC?usp=sharing
 
 
 The models I used can be found here:
