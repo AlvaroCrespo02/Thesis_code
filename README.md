@@ -1,4 +1,4 @@
-This are a few files that I used in my thesis to prepare and anylize the data I extracted from the RSF Expander Kobol.<br> 
+This are the sricpts that I used in my thesis to prepare and anylize the data I extracted from the RSF Expander Kobol.<br> 
 
 ATM the dataset can be found here:
 
