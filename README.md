@@ -1,6 +1,6 @@
-# Thesis Code — RSF Kobol Expander Emulation
+# Thesis Code — Modelling the VCF from the RSF Expander Kobol
 
-Scripts used in my thesis for preparing and analyzing audio data extracted from the **RSF Expander Kobol**, a vintage analog synthesizer. The goal is to model its audio processing behavior using neural networks.
+Scripts used in my thesis for preparing and analyzing audio data extracted from the **RSF Expander Kobol**, a vintage analog synthesizer. The goal is to model the behavior from its Voltage Controlled Filter (VCF) using neural networks.
 
 ---
 
